@@ -1,0 +1,52 @@
+.tictacBoard {
+  /*display grid to format like board*/
+  display: grid;
+  grid-template-columns: 8em 8em 8em;
+  grid-template-rows: 8em 8em 8em;
+}
+
+.tictacBoard > div {
+  border: 1px solid;
+  font-size: 7em;
+  text-align: center;
+}
+
+/* FOR REMOVING BORDERS (STRETCH) 
+.tictacBoard > div:nth-child(1) {
+  border-left: 0;
+  border-top: 0;
+}
+
+.tictacBoard > div:nth-child(2) {
+  border-top: 0;
+}
+
+.tictacBoard > div:nth-child(3) {
+  border-right: 0;
+  border-top: 0;
+}
+
+.tictacBoard > div:nth-child(4) {
+  border-left: 0;
+}
+
+.tictacBoard > div:nth-child(6) {
+  border-right: 0;
+}
+
+.tictacBoard > div:nth-child(7) {
+  border-left: 0;
+  border-bottom: 0;
+}
+
+.tictacBoard > div:nth-child(8) {
+  border-bottom: 0;
+}
+
+.tictacBoard > div:nth-child(9) {
+  border-right: 0;
+  border-bottom: 0;
+}
+
+*/
+
