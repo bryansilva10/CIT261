@@ -1,5 +1,5 @@
 # CIT261
-Projects and Study for CIT 261
+Projects to help me Study for CIT 261
 
 Link for ToDo App: https://bryansilva10.github.io/CIT261/ToDo-App/index.html
 
