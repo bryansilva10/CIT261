@@ -1,7 +1,7 @@
 # CIT261
 Projects and Study for CIT 261
 
-Link for ToDO App: https://bryansilva10.github.io/CIT261/ToDo-App/index.html
+Link for ToDo App: https://bryansilva10.github.io/CIT261/ToDo-App/index.html
 
 Link for Tic Tac Toe Board: https://bryansilva10.github.io/CIT261/W04-Tic-tac-toe/index.html
 
