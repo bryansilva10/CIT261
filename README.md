@@ -9,4 +9,6 @@ Link for Hiking Website, week 3: https://bryansilva10.github.io/CIT261/W03-Class
 
 BONUS PROJECT - Rock | Paper | Scissors Game: https://bryansilva10.github.io/CIT261/Rock-Paper-Scissors/index.html
 
-# FINAL PROJECTS - Coming soon...
+# FINAL PROJECTS
+
+Link for Drum Kit: https://bryansilva10.github.io/CIT261/Simple-Drum-Kit/index.html (inspired on Javascript30 but added some things like Animation and keyframes.
