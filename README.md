@@ -13,24 +13,24 @@ BONUS PROJECT - Rock | Paper | Scissors Game: https://bryansilva10.github.io/CIT
 
 ----First 4 are inspired on JavaScript30----
 
-Link for Drum Kit: https://bryansilva10.github.io/CIT261/Simple%20Drum%20Kit/index.html (inspired on Javascript30 but added some things like Animation and keyframes.
+Drum Kit: https://bryansilva10.github.io/CIT261/Simple%20Drum%20Kit/index.html
 
-Link for Local Tacos Ingredient List: https://bryansilva10.github.io/CIT261/local-restaurant/index.html (inspired on
+Local Tacos Ingredient List: https://bryansilva10.github.io/CIT261/local-restaurant/index.html 
 
-Link for Search Bar with Filtered Suggestions: https://bryansilva10.github.io/CIT261/Search-bar-suggestion/index.html
+Search Bar with Filtered Suggestions: https://bryansilva10.github.io/CIT261/Search-bar-suggestion/index.html
 
-Link for Whack A Mole Game: https://bryansilva10.github.io/CIT261/Whack-A-Mole/index.html
+Whack A Mole Game: https://bryansilva10.github.io/CIT261/Whack-A-Mole/index.html
 
 ---------------------------
 
-Link for Exchange Rate Calculator: https://bryansilva10.github.io/CIT261/exchange-rate/index.thml
+Exchange Rate Calculator: https://bryansilva10.github.io/CIT261/exchange-rate/index.thml
 
-Link for Meal Finder: https://bryansilva10.github.io/CIT261/meal-finder/index.html
+Meal Finder: https://bryansilva10.github.io/CIT261/meal-finder/index.html
 
-Link for Budget App: https://bryansilva10.github.io/CIT261/budget-app/index.html
+Budget App: https://bryansilva10.github.io/CIT261/budget-app/index.html
 
-Link for Flash Cards App: https://bryansilva10.github.io/CIT261/memory-cards/index.html
+Flash Cards App: https://bryansilva10.github.io/CIT261/memory-cards/index.html
 
-Link for Song Lyrics Finder: https://bryansilva10.github.io/CIT261/lyrics-finder/index.html
+Song Lyrics Finder: https://bryansilva10.github.io/CIT261/lyrics-finder/index.html
 
-Link for Typing Game: https://bryansilva10.github.io/CIT261/typing%20game/index.html
+Typing Game: https://bryansilva10.github.io/CIT261/typing%20game/index.html
