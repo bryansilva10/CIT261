@@ -31,4 +31,4 @@ Link for Flash Cards App: https://bryansilva10.github.io/CIT261/memory-cards/ind
 
 Link for Song Lyrics Finder: https://bryansilva10.github.io/CIT261/lyrics-finder.index.html
 
-Link for Typing Game: https://bryansilva10.github.io/CIT261/typing-game.index.html
+Link for Typing Game: https://bryansilva10.github.io/CIT261/typing%20game.index.html
