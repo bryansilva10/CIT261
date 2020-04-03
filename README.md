@@ -21,6 +21,8 @@ Link for Search Bar with Filtered Suggestions: https://bryansilva10.github.io/CI
 
 Link for Whack A Mole Game: https://bryansilva10.github.io/CIT261/Whack-A-Mole/index.html
 
+---------------------------
+
 Link for Exchange Rate Calculator: https://bryansilva10.github.io/CIT261/exchange-rate/index.thml
 
 Link for Meal Finder: https://bryansilva10.github.io/CIT261/meal-finder.index.html
