@@ -11,4 +11,12 @@ BONUS PROJECT - Rock | Paper | Scissors Game: https://bryansilva10.github.io/CIT
 
 # COLLECTION OF FINAL PROJECTS
 
+----First 4 are inspired on JavaScript30----
+
 Link for Drum Kit: https://bryansilva10.github.io/CIT261/Simple%20Drum%20Kit/index.html (inspired on Javascript30 but added some things like Animation and keyframes.
+
+Link for Local Tacos Ingredient List: https://bryansilva10.github.io/CIT261/local-restaurant/index.html (inspired on
+
+Link for Search Bar with Filtered Suggestions: https://bryansilva10.github.io/CIT261/Search-bar-suggestion/index.html
+
+Link for Whack A Mole Game: https://bryansilva10.github.io/CIT261/Whack-A-Mole/index.html
