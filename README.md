@@ -23,7 +23,7 @@ Whack A Mole Game: https://bryansilva10.github.io/CIT261/Whack-A-Mole/index.html
 
 ---------------------------
 
-Exchange Rate Calculator: https://bryansilva10.github.io/CIT261/exchange-rate/index.thml
+Exchange Rate Calculator: https://bryansilva10.github.io/CIT261/exchange-rate/index.html
 
 Meal Finder: https://bryansilva10.github.io/CIT261/meal-finder/index.html
 
