@@ -20,3 +20,15 @@ Link for Local Tacos Ingredient List: https://bryansilva10.github.io/CIT261/loca
 Link for Search Bar with Filtered Suggestions: https://bryansilva10.github.io/CIT261/Search-bar-suggestion/index.html
 
 Link for Whack A Mole Game: https://bryansilva10.github.io/CIT261/Whack-A-Mole/index.html
+
+Link for Exchange Rate Calculator: https://bryansilva10.github.io/CIT261/exchange-rate/index.thml
+
+Link for Meal Finder: https://bryansilva10.github.io/CIT261/meal-finder.index.html
+
+Link for Budget App: https://bryansilva10.github.io/CIT261/budget-app/index.html
+
+Link for Flash Cards App: https://bryansilva10.github.io/CIT261/memory-cards/index.html
+
+Link for Song Lyrics Finder: https://bryansilva10.github.io/CIT261/lyrics-finder.index.html
+
+Link for Typing Game: https://bryansilva10.github.io/CIT261/typing-game.index.html
